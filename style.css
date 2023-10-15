@@ -1,0 +1,12 @@
+.bg {
+    background-color: black;
+}
+
+#titulo {
+    font-family: 'Poller One', serif;
+    color: white;
+}
+
+#info, #footer {
+    color: white;
+}
